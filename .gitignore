@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+.env.*
+*.sqlite3
+.pytest_cache/
+.streamlit/secrets.toml
+.idea/
+.vscode/
+antigravity.db
+.agents/
